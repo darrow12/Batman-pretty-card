@@ -1,0 +1,68 @@
+.live-card-1 {
+  margin: 50px;
+  width: 296px;
+  height: 176px;
+  /* position: absolute; */
+}
+
+img {
+  object-fit: cover;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.live-banner {
+  width: 296px;
+  height: 75px;
+}
+
+
+
+.info-live {
+  position: absolute;
+  width: 296px;
+  height: 101px;
+
+  background: #EDF1F3;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.live-text-info {
+  margin: 8px 32px 22px 15px;
+}
+
+#live-title {
+  width: 241px;
+  height: 19px;
+  font-size: 16px;
+  color: #292929;
+  margin-bottom: 8px;
+}
+
+#live-description {
+  position: absolute;
+  width: 249px;
+  height: 24px;
+  font-size: 10px;
+  color: #262626;
+}
+
+.avatar-live img {
+  width: 41px;
+  height: 41px;
+  z-index: 1;
+  object-fit: cover;
+}
+
+.data-live {
+  width: 112px;
+  height: 15px;
+  font-size: 10px;
+  margin: 8px 169px 8px 15px;
+  color: #525C61;
+}
+
+.face__modify {
+  margin-right: 6px;
+  margin-left: 6px;
+  color: #525C61;
+}
