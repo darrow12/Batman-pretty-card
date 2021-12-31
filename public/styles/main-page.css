@@ -1,10 +1,3 @@
-.live-card-1 {
-  margin: 50px;
-  width: 296px;
-  height: 176px;
-  /* position: absolute; */
-}
-
 .live-banner img {
   object-fit: cover;
   border-radius: 10px 10px 0px 0px;
@@ -16,13 +9,13 @@
 }
 
 .avatar-live img {
-  position: absolute;
-  left: 65px;
-  top: 65px;
+  position: relative;
+  left: 15px;
+  top: -60px;
   border-radius: 50px;
+  
+  /* Agora eu fiz bonitinho kkk */
 }
-
-
 
 .info-live {
   position: absolute;

@@ -8,3 +8,10 @@ body {
   background: #eaeaea;
   font-family: 'Roboto', sans-serif;
 }
+
+#batman-card, #robin-card {
+  margin: 50px;
+  width: 296px;
+  height: 176px;
+  display: inline-block;
+}
